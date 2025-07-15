@@ -1,0 +1,11 @@
+endpoints:
+  - name: "LinkedIn"
+    host: "linkedin.com"
+    port: 443
+  - name: "Google"
+    host: "google.com"
+    port: 443
+  - name: "Doesn't exist"
+    host: "notexisting.com"
+    port: 8443
+    timeout: 10
